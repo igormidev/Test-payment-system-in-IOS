@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1047075673747",
+    "project_id": "testchallange",
+    "storage_bucket": "testchallange.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047075673747:android:a7f5a3a0089ec4836ddf66",
+        "android_client_info": {
+          "package_name": "com.testchallange.testchallange"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047075673747-fo28nt2t4khr5ncq5333509bsmn6ipud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEbjK1CBcTKc6E1aEBH1LxwQCMdsei6V8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047075673747-fo28nt2t4khr5ncq5333509bsmn6ipud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

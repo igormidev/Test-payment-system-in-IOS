@@ -1,0 +1,98 @@
+{
+  "identifier" : "2DB0A6AD",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "6449984309",
+      "localizations" : [
+        {
+          "description" : "Testing the in app purchase",
+          "displayName" : "Testing",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "100coinsInAppPurchase",
+      "referenceName" : "100 coins",
+      "type" : "Consumable"
+    }
+  ],
+  "settings" : {
+    "_applicationInternalID" : "6449940929",
+    "_developerTeamID" : "SAXGW2RPZK",
+    "_lastSynchronizedDate" : 707850718.06095803
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "21348728",
+      "localizations" : [
+
+      ],
+      "name" : "premium3months",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "4.99",
+          "familyShareable" : false,
+          "groupNumber" : 2,
+          "internalID" : "6450015038",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Have access to all the premium features",
+              "displayName" : "1 Year of premium",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "inapptestingflutter1year",
+          "recurringSubscriptionPeriod" : "P1Y",
+          "referenceName" : "1 year of premium",
+          "subscriptionGroupID" : "21348728",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "0.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "6449978012",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Access to all premium features for 3 months",
+              "displayName" : "Premium for 3 months",
+              "locale" : "en_US"
+            },
+            {
+              "description" : "Tem acesso a todas as funções premium",
+              "displayName" : "Versão premium do aplicativo",
+              "locale" : "pt_BR"
+            }
+          ],
+          "productID" : "inapptestingflutter",
+          "recurringSubscriptionPeriod" : "P3M",
+          "referenceName" : "3 months of premium",
+          "subscriptionGroupID" : "21348728",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 2,
+    "minor" : 0
+  }
+}
